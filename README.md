@@ -33,15 +33,10 @@ This project performs the following key steps:
 ## 🗂️ Project Structure
 
 Indonesian-worker-welfare-classification-model-using-clustering-per-province-per-year/
-│
-├── data/
-│ └── worker_welfare_dataset.csv # Initial dataset (per province, per year)
-│
-├── notebooks/
-│ ├── 01-data-preprocessing.ipynb
-│ ├── 02-clustering.ipynb
-│ ├── 03-classification-models.ipynb
-│
+
+├── worker_welfare_dataset.csv # Initial dataset (per province, per year)
+├── [Clustering] Submission Akhir BMLP_Ihza Zhafran Ramdhan (Updated).ipynb
+├── [Klasifikasi] Submission Akhir BMLP_Ihza Zhafran Ramadhan.ipynb
 ├── requirements.txt
 ├── README.md
 
