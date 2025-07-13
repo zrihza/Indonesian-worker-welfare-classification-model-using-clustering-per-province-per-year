@@ -25,7 +25,7 @@ This project performs the following key steps:
    - Train multiple classifiers to predict welfare class:
      - Logistic Regression
      - Random Forest
-     - SVM, etc.
+     - etc.
    - Evaluate and compare model performance using metrics like accuracy, precision, recall, F1-score.
 
 ---
