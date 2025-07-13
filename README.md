@@ -60,11 +60,9 @@ pip install -r requirements.txt
 ### 3. Run the Notebooks
 Launch Jupyter Notebook or VS Code and follow the analysis:
 
-01-data-preprocessing.ipynb
+[Clustering] Submission Akhir BMLP_Ihza Zhafran Ramdhan (Updated).ipynb
 
-02-clustering.ipynb
-
-03-classification-models.ipynb
+[Klasifikasi] Submission Akhir BMLP_Ihza Zhafran Ramadhan.ipynb
 
 Each notebook is self-contained and includes detailed steps and explanations.
 
