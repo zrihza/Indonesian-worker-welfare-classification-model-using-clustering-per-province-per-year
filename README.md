@@ -48,7 +48,7 @@ Indonesian-worker-welfare-classification-model-using-clustering-per-province-per
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Indonesian-worker-welfare-classification-model-using-clustering-per-province-per-year.git
+git clone https://github.com/zrihza/Indonesian-worker-welfare-classification-model-using-clustering-per-province-per-year.git
 cd Indonesian-worker-welfare-classification-model-using-clustering-per-province-per-year
 ```
 
