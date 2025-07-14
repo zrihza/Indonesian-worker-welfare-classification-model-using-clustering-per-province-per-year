@@ -54,9 +54,9 @@ cd Indonesian-worker-welfare-classification-model-using-clustering-per-province-
 
 ### 2. Install Dependencies
 Make sure you have Python installed (recommended: version 3.9+). Then install required libraries:
-
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the Notebooks
 Launch Jupyter Notebook or VS Code and follow the analysis:
 
